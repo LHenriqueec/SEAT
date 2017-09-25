@@ -17,5 +17,9 @@ public class PalindromeTeste {
 		assertEquals(100, palin.initialValue(3));
 	}
 	
-	
+	@Test
+	public void gerando_numero() {
+		long value = 9009;
+		assertTrue(palin.isPalindrome(value));
+	}
 }
