@@ -18,8 +18,8 @@ public class PrimoTeste {
 	
 	@Test
 	public void busca_nEsimo() {
-		int n = 56835;
-		assertEquals(296287, primo.foundNPrimo(n));
+		int n = 10001;
+		assertEquals(52111, primo.foundNPrimo(n));
 	}
 
 	@Test
