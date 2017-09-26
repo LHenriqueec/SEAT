@@ -1,5 +1,8 @@
+package com.SEAT.exercicio.teste;
 import org.junit.Before;
 import org.junit.Test;
+
+import com.SEAT.exercicio.Palindrome;
 
 public class PalindromeTeste {
 	

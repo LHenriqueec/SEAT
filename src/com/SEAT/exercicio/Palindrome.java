@@ -1,3 +1,4 @@
+package com.SEAT.exercicio;
 
 /**
  * Classe que verifica numeros Palindromos
